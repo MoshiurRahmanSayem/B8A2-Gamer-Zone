@@ -562,8 +562,12 @@
     #container-main-box3-left{
         margin-left: 60px;
     }
+    
 
-
+     .container-footer-line2{
+       flex-direction: column;
+       gap: 50px;
+    }
 
 
 
