@@ -136,6 +136,62 @@
 
 
 
+.container-nw-box1{
+    padding: 100px 100px;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.container-nw-box1-tex{
+    text-align: right;
+}
+#container-nw-box1-tex1{
+    font-size: 50px;
+    font-weight: 600;
+    background: linear-gradient(180deg, #F948B2 0%, #8758F1 100%);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    padding-bottom: 30px; 
+    
+
+}
+
+
+#container-nw-box1-tex2{
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 400;
+    padding-bottom: 20px;
+}
+#container-nw-box1-tex3{
+    padding-top: 20px;
+    color: #534C64;
+    font-size: 18px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+#container-nw-box1-tex4{
+ 
+    color: #534C64;
+    font-size: 30px;
+    font-weight: 600;
+    padding-bottom: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 .container-main-box2{
     padding: 50px 240px;
@@ -251,8 +307,82 @@
     right: -400px;
 
 }
-#container-main-box3-left{
+/* #container-main-box3-left{
 
+} */
+
+/* .bnt-all{
+    display: flex;
+    flex-wrap: wrap;
+    gap:  20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.bnt{
+    border: 2px solid gray;
+    width: 243px;
+    height: 80px;
+    border-radius: 50px;
+    background: #FFF;
+
+  
+} */
+
+
+
+
+
+
+.container-footer{
+    padding: 120px 200px;
+    height: 50vh;
+    background: #0B0223;
+}
+.container-footer-line1{
+    color: #FFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 50px;
+    
+}
+#container-footer-tex{
+    text-align: center;
+    font-size: 45px;
+    font-weight: 700;
+
+}
+.container-footer-line2{
+    color: #FFF;
+    font-size: 18px;
+    font-weight: 600;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding-bottom: 50px;
+}
+.container-footer-line3{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    font-size: 50px;  
+    color: #FFF;
+    text-align: center;
+    padding-bottom: 50px;
+    
+}
+.container-footer-line4{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: rgba(255, 255, 255, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 20px;
 }
 
 
@@ -285,6 +415,12 @@
         
         
     }
+
+
+
+
+
+
 
 
     .container-main-box2{
