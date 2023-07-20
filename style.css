@@ -335,6 +335,41 @@
 
 
 
+.container-main-box4{
+    border: 5px solid rgb(207, 170, 176);
+    padding: 80px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+
+    /* text-decoration: none; */
+}
+#container-main-box4-bnt{
+    padding: 10px 20px;
+    width: 243px;
+    height: 80px;
+    border: 1px solid rgb(207, 170, 176);
+    border-radius: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+#container-main-box4-bnt:hover{
+    border: 3px solid rgb(225, 141, 169);
+    font-size:20px ;
+    font-weight: 600;
+    
+}
+.hover-button:hover {
+    color: rgb(224, 131, 224); 
+  }
+
+
 .container-footer{
     padding: 120px 200px;
     height: 50vh;
